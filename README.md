@@ -1,27 +1,12 @@
-# CodeIgniter 4 Application Starter
+# Aplikasi Layanan Penerbitab Buku Sederhana
 
-## What is CodeIgniter?
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+![localhost_2023_widya_](https://user-images.githubusercontent.com/109882984/228170431-f755465c-b56f-4a69-b047-580e86f42793.png)
+![localhost_2023_widya_anggota_pembayaran](https://user-images.githubusercontent.com/109882984/228170539-59400793-763f-48c5-aa6e-e612d64234d0.png)
+![localhost_2023_widya_anggota_penerbitan](https://user-images.githubusercontent.com/109882984/228170549-b810d400-9b0e-45e4-8cb6-e5f5fe30442b.png)
+![localhost_2023_widya_anggota_buku](https://user-images.githubusercontent.com/109882984/228170550-ff37816c-fdbf-4f9e-a2fc-2387ade8ec0c.png)
+![localhost_2023_widya_anggota](https://user-images.githubusercontent.com/109882984/228170554-da96b4db-8087-40d0-94b2-e4f7bc05b173.png)
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
-
-The user guide corresponding to the latest version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-## Installation & updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
 
 ## Setup
 
