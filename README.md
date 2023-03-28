@@ -1,4 +1,4 @@
-# Aplikasi Layanan Penerbitab Buku Sederhana
+# Aplikasi Layanan Penerbitan Buku Sederhana
 
 
 ![localhost_2023_widya_](https://user-images.githubusercontent.com/109882984/228170431-f755465c-b56f-4a69-b047-580e86f42793.png)
